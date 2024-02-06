@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import DonationForm from "./components/DonationForm";
 import DonationList from "./components/DonationList";
 import DonationStatistics from "./components/DonationStatistics";
