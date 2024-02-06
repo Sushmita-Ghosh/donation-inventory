@@ -46,6 +46,8 @@ A simple web application for a local animal shelter to manage their donation inv
 4. Open your browser and visit http://localhost:5174/ to use the application.
 
 ## Screenshots:
+![Inventory](https://github.com/Sushmita-Ghosh/donation-inventory/assets/82622059/0dec57be-110c-4309-965f-e11add618e94)
+
 
 ## Technologies Used
 
