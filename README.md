@@ -48,6 +48,9 @@ A simple web application for a local animal shelter to manage their donation inv
 ## Screenshots:
 ![Inventory](https://github.com/Sushmita-Ghosh/donation-inventory/assets/82622059/0dec57be-110c-4309-965f-e11add618e94)
 
+## Deployments:
+This project is deployed [here](https://donation-inventory.vercel.app/).
+
 
 ## Technologies Used
 
